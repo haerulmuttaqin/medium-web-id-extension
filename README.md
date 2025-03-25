@@ -23,8 +23,8 @@ Enhance your reading experience on [Medium.web.id](https://medium.web.id) with p
 ## 📥 Installation (via GitHub Releases)  
 ### Step-by-Step Guide:  
 1. **Download the Extension**:  
-   - Go to the [Releases page](https://github.com/haerulmuttaqin/medium-webid-extension/releases).  
-   - Download the latest `.zip` file (e.g., `medium-webid-extension-v1.0.0.zip`).  
+   - Go to the [Releases page](https://github.com/haerulmuttaqin/medium-web-id-extension/releases).  
+   - Download the latest `.zip` file (e.g., `medium-web-id-extension-v1.0.0.zip`).  
 
 2. **Extract the Files**:  
    - Unzip the downloaded file to a folder on your computer.  
@@ -48,7 +48,7 @@ Enhance your reading experience on [Medium.web.id](https://medium.web.id) with p
   - Export the article.
  
 ## ❓ Support  
-- Report issues on the [Issues page](https://github.com/haerulmuttaqin/medium-webid-extension/issues).  
+- Report issues on the [Issues page](https://github.com/haerulmuttaqin/medium-web-id-extension/issues).  
 
 ## 📜 License  
 MIT © [Haerul Muttaqin](https://github.com/haerulmuttaqin)  
