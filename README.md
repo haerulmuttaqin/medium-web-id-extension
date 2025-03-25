@@ -2,7 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Latest Release](https://img.shields.io/github/v/release/haerulmuttaqin/medium-web-id-extension)](https://github.com/haerulmuttaqin/medium-web-id-extension/releases)  
-[![Downloads](https://img.shields.io/github/downloads/haerulmuttaqin/medium-web-id-extension/total)](https://github.com/haerulmuttaqin/medium-web-id-extension/releases)  
+[![Downloads](https://img.shields.io/github/downloads/haerulmuttaqin/medium-web-id-extension/latest/total)](https://github.com/haerulmuttaqin/medium-web-id-extension/releases)  
+
 
 Enhance your reading experience on [Medium.web.id](https://medium.web.id) with paywall bypass, dark mode, and more.  
 
