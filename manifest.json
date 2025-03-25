@@ -1,5 +1,5 @@
 {
-  "manifest_version": 1,
+  "manifest_version": 3,
   "name": "MediumWebID",
   "version": "1.0",
   "description": "An extension to read Medium posts for free.",
