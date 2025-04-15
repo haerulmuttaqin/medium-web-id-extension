@@ -1,6 +1,10 @@
 function freeUrl(url) {
     const urlObj = new URL(url)
 
+    if (urlObj.host !== "medium.com") {
+        urlObj.href = urlObj.origin + urlObj.href
+    }
+
     urlObj.host = "medium.web.id";
 
     return urlObj.href;
